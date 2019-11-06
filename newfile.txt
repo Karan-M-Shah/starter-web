@@ -12,3 +12,5 @@ git clone: clones a file
 git status: Check the status of the directory
 git ls-files: View all currently tracked files
 git commit -am "" : Adds and then commits a file in one shortcut
+
+git branch: new branch
