@@ -21,4 +21,5 @@ git branch branchname: creates a new branch
 git branch -d branchname: delete branch
 git checkout -b branchname: creates a new branch and swaps branches
 git log: shows a log. Can use --oneline --decorate --graph
+git merge branchname: merges branchname onto current branch
 
