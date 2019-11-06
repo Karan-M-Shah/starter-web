@@ -1,1 +1,11 @@
 this is a new file, I just need some text!
+
+Update: Adding some more text
+
+Git: Working directory > Staging Area > Git Repository > Remote Respository
+
+git add: Adds a file from working to stage
+git commit -m: Commits a file from staging to repository. -m for a message in quotes ""
+git pull origin master: Pulls master into origin to make sure you're up to date
+git push origin master: Pushes your changes to master to sync it to your local repository
+git clone: clones a file
