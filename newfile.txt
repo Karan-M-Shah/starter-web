@@ -9,3 +9,6 @@ git commit -m: Commits a file from staging to repository. -m for a message in qu
 git pull origin master: Pulls master into origin to make sure you're up to date
 git push origin master: Pushes your changes to master to sync it to your local repository
 git clone: clones a file
+git status: Check the status of the directory
+git ls-files: View all currently tracked files
+git commit -am "" : Adds and then commits a file in one shortcut
