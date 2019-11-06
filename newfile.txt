@@ -13,4 +13,11 @@ git status: Check the status of the directory
 git ls-files: View all currently tracked files
 git commit -am "" : Adds and then commits a file in one shortcut
 
-git branch: new branch
+git branch: lists branch
+git branch -a: lists all branches
+git checkout branchane: change branches
+git diff branch1 branch2: differences between branches
+git branch branchname: creates a new branch
+git checkout -b branchname: creates a new branch and swaps branches
+git log: shows a log. Can use --oneline --decorate --graph
+
